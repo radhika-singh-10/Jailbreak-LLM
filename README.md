@@ -3,6 +3,7 @@
 
 ## Research Papers
 - <a href="https://arxiv.org/pdf/2407.04295" target="_blank">Jailbreak Attacks and Defenses Against Large Language Models: A Survey</a>
+- <a href="https://arxiv.org/pdf/2503.18813" target="_blank">Defeating Prompt Injections by Design </a>
 
 ## Blogs
 
@@ -14,6 +15,10 @@
 
 ## Videos
 
+
+## CodeBase
+
+- <a href="https://github.com/google-research/camel-prompt-injection" target="_blank">camel-prompt-injection </a>
 
 
 ## <caption><strong>Overview of Jailbreak Attack and Defense Methods</strong></caption>
